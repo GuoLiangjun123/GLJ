@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_height="wrap_content" android:layout_width="wrap_content"
+ android:background="#000000" android:orientation="vertical"
+ android:id="@+id/dialog">
+	 <RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical"
+		android:padding="10dip"
+		android:scrollbars="vertical" >
+		<EditText android:id="@+id/et_ratetype"
+			android:layout_width="fill_parent"  
+			android:layout_height="wrap_content"
+			android:minWidth="100dip"
+			android:layout_marginLeft="80dp"
+			android:hint="Count"/>
+		<TextView android:id="@+id/tvratetype"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_alignTop="@+id/et_ratetype"
+			android:layout_marginTop="10dp"
+			android:textSize="18sp"
+			android:text="费率类型：" />	   
+		
+		<EditText android:id="@+id/et_rate"
+			android:layout_width="fill_parent"  
+			android:layout_height="wrap_content"
+			android:layout_below="@+id/et_ratetype"
+			android:minWidth="100dip"
+			android:inputType="number"
+			android:maxLength="4"
+			android:hint="1-9999"
+			android:layout_marginLeft="80dp"/>
+		<TextView android:id="@+id/tvrate"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_alignTop="@+id/et_rate"
+			android:layout_marginTop="10dp"
+			android:textSize="18sp"
+			android:text="金额：" />	 
+			
+	 
+	</RelativeLayout> 
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_height="wrap_content" android:layout_width="wrap_content"
+ android:background="#000000" android:orientation="vertical"
+ android:id="@+id/dialog">
+	 <RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical"
+		android:padding="10dip"
+		android:scrollbars="vertical" >
+		<EditText android:id="@+id/et_roadid"
+			android:layout_width="fill_parent"  
+			android:layout_height="wrap_content"
+			android:minWidth="100dip"
+			android:layout_marginLeft="80dp"
+			android:inputType="number"
+			android:maxLength="2"
+			android:hint="道路编号：1-4"/>
+		<TextView android:id="@+id/tvroadid"
+			android:layout_height="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_alignTop="@+id/et_roadid"
+			android:layout_marginTop="10dp"
+			android:textSize="18sp"
+			android:text="道路ID：" />	   
+	</RelativeLayout> 
+</LinearLayout>

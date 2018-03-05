@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_height="wrap_content" android:layout_width="wrap_content"
+ android:background="#000000" android:orientation="vertical"
+ android:id="@+id/dialog">
+
+	<RelativeLayout
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:orientation="vertical"
+       android:padding="10dip"
+       android:scrollbars="vertical">
+
+		<EditText
+			android:id="@+id/et_carid"
+           android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+           android:layout_marginLeft="80dp"
+           android:hint="小车编号：1-4"
+           android:inputType="number"
+           android:maxLength="1"
+           android:minWidth="100dip"/>
+
+		<TextView
+			android:id="@+id/tvcarid"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignTop="@+id/et_carid"
+           android:layout_marginTop="10dp"
+           android:text="小车ID："
+           android:textSize="18sp"/>
+
+		<EditText
+			android:id="@+id/et_costtype"
+           android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+           android:layout_below="@+id/et_carid"
+           android:layout_marginLeft="80dp"
+           android:hint="Park"
+           android:minWidth="100dip"/>
+
+		<TextView
+			android:id="@+id/tvcosttype"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignTop="@+id/et_costtype"
+           android:layout_marginTop="10dp"
+           android:textSize="18sp"
+           android:text="消费类型："/>
+
+
+	</RelativeLayout>
+</LinearLayout>

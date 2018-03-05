@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能交通</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Interface">
+        <item>查询小车当前速度</item>
+        <item>设置小车动作</item>
+        <item>小车账户充值</item>
+        <item>查询小车账户余额</item>
+        <item>查询红绿灯的配置信息</item>
+        <item>停车场费率设置</item>
+        <item>查询当前停车场费率信息</item>
+        <item>查询当前空闲车位</item>
+        <item>查询所有传感器的当前值</item>
+        <item>查询光照传感器阀值</item>
+        <item>站台信息查询</item>
+        <item>查询道路状态</item>
+    </string-array>
+
+</resources>

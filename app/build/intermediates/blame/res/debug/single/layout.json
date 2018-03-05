@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\carid.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\carid.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\caraccountrecord.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\caraccountrecord.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\caraction.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\caraction.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setrate.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\setrate.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bussstation.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\bussstation.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\trafficlight.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\trafficlight.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\road.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\road.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinnertitle.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\spinnertitle.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\caraccountrecharge.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\src\\main\\res\\layout\\caraccountrecharge.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "F:\\AndroidStudioProjects\\DEMO\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    }
+]

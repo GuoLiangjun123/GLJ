@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:padding="10dip"
+        android:scrollbars="vertical" >
+
+        <EditText
+            android:id="@+id/et_trafficlightid"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90dp"
+            android:hint="1-5"
+            android:inputType="number"
+            android:maxLength="1"
+            android:minWidth="100dip" />
+
+        <TextView
+            android:id="@+id/tvtrafficlightid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/et_trafficlightid"
+            android:layout_marginTop="10dp"
+            android:text="红绿灯ID："
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+</LinearLayout>
